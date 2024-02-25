@@ -51,7 +51,6 @@ D:\Projetos\PSG\alura.estacionamento-aula01\Alura.Estacionamento\bin\Debug\net5.
 D:\Projetos\PSG\alura.estacionamento-aula01\Alura.Estacionamento\bin\Debug\net5.0\Alura.Estacionamento.runtimeconfig.json
 D:\Projetos\PSG\alura.estacionamento-aula01\Alura.Estacionamento\bin\Debug\net5.0\Alura.Estacionamento.runtimeconfig.dev.json
 D:\Projetos\PSG\alura.estacionamento-aula01\Alura.Estacionamento\bin\Debug\net5.0\Alura.Estacionamento.dll
-D:\Projetos\PSG\alura.estacionamento-aula01\Alura.Estacionamento\bin\Debug\net5.0\ref\Alura.Estacionamento.dll
 D:\Projetos\PSG\alura.estacionamento-aula01\Alura.Estacionamento\bin\Debug\net5.0\Alura.Estacionamento.pdb
 D:\Projetos\PSG\alura.estacionamento-aula01\Alura.Estacionamento\obj\Debug\net5.0\Alura.Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
 D:\Projetos\PSG\alura.estacionamento-aula01\Alura.Estacionamento\obj\Debug\net5.0\Alura.Estacionamento.AssemblyInfoInputs.cache
@@ -62,3 +61,5 @@ D:\Projetos\PSG\alura.estacionamento-aula01\Alura.Estacionamento\obj\Debug\net5.
 D:\Projetos\PSG\alura.estacionamento-aula01\Alura.Estacionamento\obj\Debug\net5.0\Alura.Estacionamento.pdb
 D:\Projetos\PSG\alura.estacionamento-aula01\Alura.Estacionamento\obj\Debug\net5.0\Alura.Estacionamento.genruntimeconfig.cache
 D:\Projetos\PSG\alura.estacionamento-aula01\Alura.Estacionamento\obj\Debug\net5.0\Alura.Estacionamento.csproj.AssemblyReference.cache
+D:\Projetos\PSG\alura.estacionamento-aula01\Alura.Estacionamento\obj\Debug\net5.0\Alura.Estacionamento.sourcelink.json
+D:\Projetos\PSG\alura.estacionamento-aula01\Alura.Estacionamento\obj\Debug\net5.0\refint\Alura.Estacionamento.dll

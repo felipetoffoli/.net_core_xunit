@@ -13,7 +13,6 @@ D:\Projetos\PSG\alura.estacionamento-aula01\Alura.Estacionamento.Tests\bin\Debug
 D:\Projetos\PSG\alura.estacionamento-aula01\Alura.Estacionamento.Tests\bin\Debug\net5.0\Alura.Estacionamento.Tests.runtimeconfig.json
 D:\Projetos\PSG\alura.estacionamento-aula01\Alura.Estacionamento.Tests\bin\Debug\net5.0\Alura.Estacionamento.Tests.runtimeconfig.dev.json
 D:\Projetos\PSG\alura.estacionamento-aula01\Alura.Estacionamento.Tests\bin\Debug\net5.0\Alura.Estacionamento.Tests.dll
-D:\Projetos\PSG\alura.estacionamento-aula01\Alura.Estacionamento.Tests\bin\Debug\net5.0\ref\Alura.Estacionamento.Tests.dll
 D:\Projetos\PSG\alura.estacionamento-aula01\Alura.Estacionamento.Tests\bin\Debug\net5.0\Alura.Estacionamento.Tests.pdb
 D:\Projetos\PSG\alura.estacionamento-aula01\Alura.Estacionamento.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 D:\Projetos\PSG\alura.estacionamento-aula01\Alura.Estacionamento.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
@@ -100,8 +99,10 @@ D:\Projetos\PSG\alura.estacionamento-aula01\Alura.Estacionamento.Tests\obj\Debug
 D:\Projetos\PSG\alura.estacionamento-aula01\Alura.Estacionamento.Tests\obj\Debug\net5.0\Alura.Estacionamento.Tests.AssemblyInfoInputs.cache
 D:\Projetos\PSG\alura.estacionamento-aula01\Alura.Estacionamento.Tests\obj\Debug\net5.0\Alura.Estacionamento.Tests.AssemblyInfo.cs
 D:\Projetos\PSG\alura.estacionamento-aula01\Alura.Estacionamento.Tests\obj\Debug\net5.0\Alura.Estacionamento.Tests.csproj.CoreCompileInputs.cache
-D:\Projetos\PSG\alura.estacionamento-aula01\Alura.Estacionamento.Tests\obj\Debug\net5.0\Alura.Estacionamento.Tests.csproj.CopyComplete
 D:\Projetos\PSG\alura.estacionamento-aula01\Alura.Estacionamento.Tests\obj\Debug\net5.0\Alura.Estacionamento.Tests.dll
 D:\Projetos\PSG\alura.estacionamento-aula01\Alura.Estacionamento.Tests\obj\Debug\net5.0\ref\Alura.Estacionamento.Tests.dll
 D:\Projetos\PSG\alura.estacionamento-aula01\Alura.Estacionamento.Tests\obj\Debug\net5.0\Alura.Estacionamento.Tests.pdb
 D:\Projetos\PSG\alura.estacionamento-aula01\Alura.Estacionamento.Tests\obj\Debug\net5.0\Alura.Estacionamento.Tests.genruntimeconfig.cache
+D:\Projetos\PSG\alura.estacionamento-aula01\Alura.Estacionamento.Tests\obj\Debug\net5.0\Alura.Estacionamento.Tests.sourcelink.json
+D:\Projetos\PSG\alura.estacionamento-aula01\Alura.Estacionamento.Tests\obj\Debug\net5.0\Alura.Es.DAF9CAFE.Up2Date
+D:\Projetos\PSG\alura.estacionamento-aula01\Alura.Estacionamento.Tests\obj\Debug\net5.0\refint\Alura.Estacionamento.Tests.dll
