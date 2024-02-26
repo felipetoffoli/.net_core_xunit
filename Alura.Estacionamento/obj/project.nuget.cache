@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rXfx9EsFEYLwayzWCcHSFTeppdSSAR35s5tnhx1iJtZAU1i49ZEOR5wSHRSfhs0Ixa/crGfkN3nDPpR+5ouRbg==",
+  "dgSpecHash": "Nf9E5G8kik1PW0l+ie+7jpwMSQ4vOqBioxxiPLJRMKbsYPsVCG2a0Uxhen5xi+bx0hKTR6Uto68TZFWYRYHvxQ==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\PSG\\alura.estacionamento-aula01\\Alura.Estacionamento\\Alura.Estacionamento.csproj",
+  "projectFilePath": "D:\\Projetos\\PSG\\.net_core_xunit\\Alura.Estacionamento\\Alura.Estacionamento.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

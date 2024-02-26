@@ -1,3 +1,4 @@
+using Alura.Estacionamento.Alura.Estacionamento.Modelos;
 using Alura.Estacionamento.Modelos;
 using System;
 using Xunit;
@@ -6,34 +7,54 @@ namespace Alura.Estacionamento.Tests
 {
     public class VeiculoTest
     {
-        [Fact (DisplayName = "Teste numero 1")]
-        [Trait ("Funcionalidade", "Acelerar")]
-        public void TestaAcelerar()
+
+        private Veiculo veiculo;
+        public VeiculoTest(){
+            veiculo = new Veiculo();
+        }
+
+        [Fact]
+        public void TestaAcelerarComParametro10()
         {
             //Arrange
-            var veiculo = new Veiculo();
+            //var veiculo = new Veiculo();
             //Act
             veiculo.Acelerar(10);
             //Assert
             Assert.Equal(100, veiculo.VelocidadeAtual);
         }
 
-        [Fact (DisplayName = "Teste numero 2")]
-        [Trait ("Funcionalidade", "Frear")]
-        public void TestaFreiar()
+        [Fact]
+        public void TestaFreiarComParametro10()
         {
             //Arrange
-            var veiculo = new Veiculo();
+            //var veiculo = new Veiculo();
             //Act
             veiculo.Frear(10);
             //Assert
             Assert.Equal(-150, veiculo.VelocidadeAtual);
         }
-        [Fact (DisplayName = "Teste numero 3", Skip = "Teste ainda não implementado")]
-        public void ValidaNomeProprietario(){
+        [Fact]
+        public void ValidaNomeProprietarioDoVeiculo(){
             
         }
 
+        [Fact]
+        public void FichaDeInformacaoVeiculo(){
+            //Arrage
+           // Veiculo veiculo = new Veiculo();
+            veiculo.Proprietario = "Carlos Silva";
+            veiculo.Tipo = TipoVeiculo.Automovel;
+            veiculo.Placa = "EAP-7419";
+            veiculo.Cor = "Verde";
+            veiculo.Modelo = "Variante";
+
+            //Act
+            string dados = veiculo.ToString();
+
+            //Assert
+            Assert.Contains("Ficha do Veiculo:", dados);
+        }
         
     }
 }

@@ -6065,19 +6065,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\felip\\.nuget\\packages\\": {}
+    "C:\\Users\\fmartins\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\PSG\\alura.estacionamento-aula01\\Alura.Estacionamento.Tests\\Alura.Estacionamento.Tests.csproj",
+      "projectUniqueName": "D:\\Projetos\\PSG\\.net_core_xunit\\Alura.Estacionamento.Tests\\Alura.Estacionamento.Tests.csproj",
       "projectName": "Alura.Estacionamento.Tests",
-      "projectPath": "D:\\Projetos\\PSG\\alura.estacionamento-aula01\\Alura.Estacionamento.Tests\\Alura.Estacionamento.Tests.csproj",
-      "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\PSG\\alura.estacionamento-aula01\\Alura.Estacionamento.Tests\\obj\\",
+      "projectPath": "D:\\Projetos\\PSG\\.net_core_xunit\\Alura.Estacionamento.Tests\\Alura.Estacionamento.Tests.csproj",
+      "packagesPath": "C:\\Users\\fmartins\\.nuget\\packages\\",
+      "outputPath": "D:\\Projetos\\PSG\\.net_core_xunit\\Alura.Estacionamento.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\fmartins\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6091,8 +6091,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Projetos\\PSG\\alura.estacionamento-aula01\\Alura.Estacionamento\\Alura.Estacionamento.csproj": {
-              "projectPath": "D:\\Projetos\\PSG\\alura.estacionamento-aula01\\Alura.Estacionamento\\Alura.Estacionamento.csproj"
+            "D:\\Projetos\\PSG\\.net_core_xunit\\Alura.Estacionamento\\Alura.Estacionamento.csproj": {
+              "projectPath": "D:\\Projetos\\PSG\\.net_core_xunit\\Alura.Estacionamento\\Alura.Estacionamento.csproj"
             }
           }
         }

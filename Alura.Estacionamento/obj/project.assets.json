@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\felip\\.nuget\\packages\\": {}
+    "C:\\Users\\fmartins\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\PSG\\alura.estacionamento-aula01\\Alura.Estacionamento\\Alura.Estacionamento.csproj",
+      "projectUniqueName": "d:\\Projetos\\PSG\\.net_core_xunit\\Alura.Estacionamento\\Alura.Estacionamento.csproj",
       "projectName": "Alura.Estacionamento",
-      "projectPath": "D:\\Projetos\\PSG\\alura.estacionamento-aula01\\Alura.Estacionamento\\Alura.Estacionamento.csproj",
-      "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\PSG\\alura.estacionamento-aula01\\Alura.Estacionamento\\obj\\",
+      "projectPath": "d:\\Projetos\\PSG\\.net_core_xunit\\Alura.Estacionamento\\Alura.Estacionamento.csproj",
+      "packagesPath": "C:\\Users\\fmartins\\.nuget\\packages\\",
+      "outputPath": "d:\\Projetos\\PSG\\.net_core_xunit\\Alura.Estacionamento\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\fmartins\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
