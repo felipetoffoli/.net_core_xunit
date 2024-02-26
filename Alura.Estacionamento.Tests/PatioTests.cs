@@ -16,13 +16,17 @@ namespace Alura.Estacionamento.Tests
         private Veiculo veiculo;
         private Patio estacionamento;
         public ITestOutputHelper SaidaConsoleTeste;
+        private Operador operador;
         public PatioTests(ITestOutputHelper _saidaConsoleTeste){
             SaidaConsoleTeste = _saidaConsoleTeste;
             SaidaConsoleTeste.WriteLine("Construtor Invocado.");
             
             veiculo = new Veiculo();
             estacionamento = new Patio();
-            
+            Operador operador = new Operador();
+            operador.Nome = "Rodolfo Silva";
+            estacionamento.OperadorPatio = operador;
+
         }
 
 
@@ -32,13 +36,14 @@ namespace Alura.Estacionamento.Tests
             // Arrange
             //var estacionamento = new Patio();
             //var veiculo = new Veiculo();
-
+            
             veiculo.Proprietario = "André Silva";
             veiculo.Tipo = TipoVeiculo.Automovel;
             veiculo.Cor = "Vermelo";
             veiculo.Modelo = "Fusca";
             veiculo.Placa = "asd-9999";
 
+            
             estacionamento.RegistrarEntradaVeiculo(veiculo);
             estacionamento.RegistrarSaidaVeiculo(veiculo.Placa);
 
@@ -99,7 +104,7 @@ namespace Alura.Estacionamento.Tests
             estacionamento.RegistrarEntradaVeiculo(veiculo);
 
             //Act
-            var consultado = estacionamento.PesquisaVeiculo(veiculo.Placa);
+            var consultado = estacionamento.PesquisaVeiculo(veiculo.IdTicket);
 
             //Assert
             Assert.Equal(placa, consultado.Placa);
@@ -125,7 +130,9 @@ namespace Alura.Estacionamento.Tests
             veiculoAlterado.Cor = "Preto";
             veiculoAlterado.Modelo = "Fusca";
             veiculoAlterado.Placa = "asd-9999";
-            
+            veiculoAlterado.Ticket = veiculo.Ticket;
+            veiculoAlterado.IdTicket = veiculo.IdTicket;
+
             //Act
             Veiculo alterado = estacionamento.AlterarDadosVeiculo(veiculoAlterado);
 

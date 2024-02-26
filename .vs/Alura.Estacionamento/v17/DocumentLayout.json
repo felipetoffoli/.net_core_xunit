@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\Projetos\\PSG\\.net_core_xunit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75948899-3773-4BA3-8502-513227D6F7BE}|Alura.Estacionamento.Tests\\Alura.Estacionamento.Tests.csproj|d:\\projetos\\psg\\.net_core_xunit\\alura.estacionamento.tests\\alura.estacionamento.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{75948899-3773-4BA3-8502-513227D6F7BE}|Alura.Estacionamento.Tests\\Alura.Estacionamento.Tests.csproj|solutionrelative:alura.estacionamento.tests\\alura.estacionamento.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{75948899-3773-4BA3-8502-513227D6F7BE}|Alura.Estacionamento.Tests\\Alura.Estacionamento.Tests.csproj|d:\\projetos\\psg\\.net_core_xunit\\alura.estacionamento.tests\\patiotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75948899-3773-4BA3-8502-513227D6F7BE}|Alura.Estacionamento.Tests\\Alura.Estacionamento.Tests.csproj|solutionrelative:alura.estacionamento.tests\\patiotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39515548-848C-4B37-93A8-8F64568153D9}|Alura.Estacionamento\\Alura.Estacionamento.csproj|d:\\projetos\\psg\\.net_core_xunit\\alura.estacionamento\\alura.estacionamento.modelos\\patio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39515548-848C-4B37-93A8-8F64568153D9}|Alura.Estacionamento\\Alura.Estacionamento.csproj|solutionrelative:alura.estacionamento\\alura.estacionamento.modelos\\patio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75948899-3773-4BA3-8502-513227D6F7BE}|Alura.Estacionamento.Tests\\Alura.Estacionamento.Tests.csproj|d:\\projetos\\psg\\.net_core_xunit\\alura.estacionamento.tests\\veiculotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75948899-3773-4BA3-8502-513227D6F7BE}|Alura.Estacionamento.Tests\\Alura.Estacionamento.Tests.csproj|solutionrelative:alura.estacionamento.tests\\veiculotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39515548-848C-4B37-93A8-8F64568153D9}|Alura.Estacionamento\\Alura.Estacionamento.csproj|d:\\projetos\\psg\\.net_core_xunit\\alura.estacionamento\\alura.estacionamento.modelos\\operador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39515548-848C-4B37-93A8-8F64568153D9}|Alura.Estacionamento\\Alura.Estacionamento.csproj|solutionrelative:alura.estacionamento\\alura.estacionamento.modelos\\operador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Operador.cs",
+              "DocumentMoniker": "D:\\Projetos\\PSG\\.net_core_xunit\\Alura.Estacionamento\\Alura.Estacionamento.Modelos\\Operador.cs",
+              "RelativeDocumentMoniker": "Alura.Estacionamento\\Alura.Estacionamento.Modelos\\Operador.cs",
+              "ToolTip": "D:\\Projetos\\PSG\\.net_core_xunit\\Alura.Estacionamento\\Alura.Estacionamento.Modelos\\Operador.cs",
+              "RelativeToolTip": "Alura.Estacionamento\\Alura.Estacionamento.Modelos\\Operador.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T19:02:16.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Alura.Estacionamento.Tests",
-              "DocumentMoniker": "D:\\Projetos\\PSG\\.net_core_xunit\\Alura.Estacionamento.Tests\\Alura.Estacionamento.Tests.csproj",
-              "RelativeDocumentMoniker": "Alura.Estacionamento.Tests\\Alura.Estacionamento.Tests.csproj",
-              "ToolTip": "D:\\Projetos\\PSG\\.net_core_xunit\\Alura.Estacionamento.Tests\\Alura.Estacionamento.Tests.csproj",
-              "RelativeToolTip": "Alura.Estacionamento.Tests\\Alura.Estacionamento.Tests.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-02-26T14:47:21.96Z",
+              "Title": "PatioTests.cs",
+              "DocumentMoniker": "D:\\Projetos\\PSG\\.net_core_xunit\\Alura.Estacionamento.Tests\\PatioTests.cs",
+              "RelativeDocumentMoniker": "Alura.Estacionamento.Tests\\PatioTests.cs",
+              "ToolTip": "D:\\Projetos\\PSG\\.net_core_xunit\\Alura.Estacionamento.Tests\\PatioTests.cs",
+              "RelativeToolTip": "Alura.Estacionamento.Tests\\PatioTests.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwC0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T18:41:22.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Patio.cs",
+              "DocumentMoniker": "D:\\Projetos\\PSG\\.net_core_xunit\\Alura.Estacionamento\\Alura.Estacionamento.Modelos\\Patio.cs",
+              "RelativeDocumentMoniker": "Alura.Estacionamento\\Alura.Estacionamento.Modelos\\Patio.cs",
+              "ToolTip": "D:\\Projetos\\PSG\\.net_core_xunit\\Alura.Estacionamento\\Alura.Estacionamento.Modelos\\Patio.cs",
+              "RelativeToolTip": "Alura.Estacionamento\\Alura.Estacionamento.Modelos\\Patio.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwBcAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T18:34:26.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VeiculoTest.cs",
+              "DocumentMoniker": "D:\\Projetos\\PSG\\.net_core_xunit\\Alura.Estacionamento.Tests\\VeiculoTest.cs",
+              "RelativeDocumentMoniker": "Alura.Estacionamento.Tests\\VeiculoTest.cs",
+              "ToolTip": "D:\\Projetos\\PSG\\.net_core_xunit\\Alura.Estacionamento.Tests\\VeiculoTest.cs",
+              "RelativeToolTip": "Alura.Estacionamento.Tests\\VeiculoTest.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAiwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T18:31:06.377Z",
               "EditorCaption": ""
             }
           ]
